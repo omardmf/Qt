@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Images/down.png</file>
+        <file>Images/up.png</file>
+        <file>Images/iti-logo.png</file>
+        <file>Images/background.png</file>
+        <file>Images/blackbackground.jpg</file>
+    </qresource>
+</RCC>
